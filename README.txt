@@ -4,7 +4,7 @@ Instructions:
 
 2. Open bash window full screen
 
-3. Compile all files: javac *.java
+3. Compile all files: javac *.java (requeires java jdk installed)
 
 4. Run the program: java BlackJack
 
